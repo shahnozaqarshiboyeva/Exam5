@@ -1,0 +1,6 @@
+export * from './Home'
+export * from './Productss'
+export * from './Login'
+export * from './Magazine'
+export * from './ForBiznes'
+export * from './AddProduct'

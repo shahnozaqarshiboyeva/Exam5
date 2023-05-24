@@ -1,0 +1,27 @@
+.Footer-Nav{
+    display: flex;
+    align-items: center;
+    width: 1450px;
+    margin: auto;
+    height: 80px;
+    background: #282B30;
+}
+.footer-cards{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 1450px;
+    margin: auto;
+    height: 750px;
+    background: #33383C;
+
+}
+.footerCard{
+    width: 300px;
+    margin: 10px;
+    margin-top: -70px;
+    height: 600px;
+}
+li{
+    color: rgb(148, 150, 152);
+}

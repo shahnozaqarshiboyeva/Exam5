@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.cover{
+    background-color: white;
+    width: 30rem;
+    margin-top: 50px;
+    margin-left: 100px;
+    height: 35rem;
+    position: relative;
+    border-radius: 1rem;
+    box-shadow: 0 0.188em 1.550em rgb(156, 156, 156);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.alt-login {
+    width: 80%;
+    height: 3rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+.alt-login div{
+    width: 45%;
+    height: 90%;
+    border-radius: 0.25em ;
+    background-color:black;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+.image-google{
+   width: 44px;
+    margin-left: 60px;
+}
+.image-facebook{
+    width: 84px;
+    margin-top: -6px;
+     margin-left: 40px;
+ }
+ .inp{
+    border: none;
+    background-color: rgb(229, 226, 226);
+    height: 4rem;
+    width: 80%;
+    font-size: 20px;
+    border-radius: 0.25em;
+    text-align: center;
+    padding: 2em;
+ }
+ .inp:focus{
+    width: 40%;
+    height: 3rem;
+    background-color: rgb(32, 177, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.5s;
+    border: 0.25em;
+    cursor: pointer;
+ }
+
+.login-img{
+    width: 600px;
+    height: 560px;
+    margin-left: 700px;
+    margin-top: -555px;
+    border-radius: 20px;
+    position: absolute;
+ }
+ .magazine-inp{
+    width: 1700px;
+    border-radius: 50px;
+    font-size: 18px;
+    padding-left: 20px;
+    border: none;
+    height: 50px;
+ }
+ .btn-forBiznes{
+    width: 200px;
+    height: 40px;
+    border-radius: 50px;
+    background-color:#fff ;
+    border: 2px solid green;
+    font-size: 19px;
+    margin-left: 20px;
+ }
+ .qwer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 20px;
+ }
+ .footer-last-home-cards{
+    width: 300px;
+    height: 350px;
+    box-shadow: 0px 4px 30px 0px;
+    border-radius: 30px;
+ }
+ .product-divv{
+   height: 1300px;
+   width: 850px;
+   margin-left: 380px;
+   background-color: darkorchid;
+ }
