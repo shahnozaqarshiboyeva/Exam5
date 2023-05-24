@@ -88,7 +88,7 @@
     height: 40px;
     border-radius: 50px;
     background-color:#fff ;
-    border: 2px solid green;
+    border: 2px solid rgb(240, 252, 240);
     font-size: 19px;
     margin-left: 20px;
  }
@@ -107,5 +107,5 @@
    height: 1300px;
    width: 850px;
    margin-left: 380px;
-   background-color: darkorchid;
+   background-color: rgb(241, 230, 247);
  }
