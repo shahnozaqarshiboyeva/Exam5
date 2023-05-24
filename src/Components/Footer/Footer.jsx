@@ -7,7 +7,7 @@ export const Footer = () => {
   return (
     <>
       <div className="Footer-Nav">
-        <img style={{ marginLeft: "30px" }} src={kiwilogo} alt="" />
+        <img src={kiwilogo} alt="" />
         <div
           style={{ width: "200px", marginLeft: "20px" }}
           className="div-paragraph"
